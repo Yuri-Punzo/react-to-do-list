@@ -9,6 +9,19 @@ function App() {
         <h1>
           Prova Prova SA SA
         </h1>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col">
+              Column
+            </div>
+            <div class="col bg-primary">
+              Column
+            </div>
+            <div class="col">
+              Column
+            </div>
+          </div>
+        </div>
         {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
