@@ -6,19 +6,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>
+        <h1 className='mb-5 mt-2'>
           Prova Prova SA SA
         </h1>
-        <div class="container text-center">
-          <div class="row">
-            <div class="col">
-              Column
+        <div className="container text-center">
+          <div className="row">
+            <div className="col">
+              1
             </div>
-            <div class="col bg-primary">
-              Column
+            <div className="col bg-primary">
+              2
             </div>
-            <div class="col">
-              Column
+            <div className="col">
+              3
             </div>
           </div>
         </div>
